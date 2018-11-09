@@ -1,0 +1,18 @@
+body {
+    background-color:lavender;
+    font-family:Avenir Next , sans-serif;
+    text-align:center;
+}
+
+h1 {
+    color:cornflowerblue;
+}
+
+.friend {
+    background-color:beige;
+    width:50em;
+}
+
+.friend  h3 {
+    text-transform:uppercase;
+}
